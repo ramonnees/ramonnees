@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Ciência da Computação na Universidade de Caxias do Sul;<br>🤝 A procura de um emprego na área;
+🔭 Estudante de Ciência da Computação na Universidade de Caxias do Sul;<br>🤝 A procura de um emprego na área;
 
 
 ## 🌐 Socials:
