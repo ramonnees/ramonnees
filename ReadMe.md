@@ -1,4 +1,5 @@
 
-Estudante de Ciência da Computação na Universidade de Caxias do Sul;
-A procura de um emprego na área;
-
+💻 Software Engineering Student @ UCS
+⚡ Building projects and improving every day
+📈 Learning: C++, Python, Java & SQL
+🎯 Looking for my first opportunity in tech
